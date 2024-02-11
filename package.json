@@ -1,0 +1,21 @@
+{
+  "name": "average-ts-enjoyer",
+  "displayName": "average-ts-enjoyer",
+  "description": "Yet another color theme.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.86.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Average TypeScript Enjoyer",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Average TypeScript Enjoyer-color-theme.json"
+      }
+    ]
+  }
+}
